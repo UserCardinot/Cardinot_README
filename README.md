@@ -3,7 +3,7 @@
 Estudante de Engenharia de Computação - UTFPR 💻
 Desenvolvedor de software, apaixonado por novas tecnologias.
 
-## More about me:
+## 🖊 **About me**
 
 <img align="left" width="300" src=https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif/>
 
